@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zuhair rasyid wafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuhair rasyid wafi" height="30" width="40" /></a>
-<a href="https://fb.com/wafi pain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wafi pain" height="30" width="40" /></a>
+<a href="linkedin.com/in/zuhair-rasyid-wafi-97793a1b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zuhair rasyid wafi" height="30" width="40" /></a>
+<a href="https://fb.com/desta.dester" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wafi pain" height="30" width="40" /></a>
 <a href="https://instagram.com/zuhairasyid_aja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zuhairasyid_aja" height="30" width="40" /></a>
-<a href="https://medium.com/zuhairwafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="zuhairwafi" height="30" width="40" /></a>
+<a href="https://medium.com/@zuhairwafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="zuhairwafi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
